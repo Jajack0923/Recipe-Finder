@@ -18,7 +18,7 @@ def Api():
 	querystring = {"id":selected_id}
 
 	headers = {
-		"x-api-key": "e518ff541c914d118d2cb375c4d484d3",
+		"x-api-key": "Your API Key from Spoonacular",
 		"X-RapidAPI-Host": url
 		}
 Api()
@@ -61,7 +61,7 @@ def Api_2():
 	querystring = {"id":selected_id}
 
 	headers = {
-		"x-api-key": "e518ff541c914d118d2cb375c4d484d3",
+		"x-api-key": "Your API Key from Spoonacular",
 		"X-RapidAPI-Host": url
 		}
 Api_2()
