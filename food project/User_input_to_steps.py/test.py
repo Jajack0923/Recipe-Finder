@@ -20,7 +20,7 @@ def Choices(): # Allows user to select which recipe they want to cook
 		querystring = {"id":all_id[n]}
 
 		headers = {
-			"x-api-key": "e518ff541c914d118d2cb375c4d484d3",
+			"x-api-key": "Your API KEy",
 			"X-RapidAPI-Host": url
 			}
 
