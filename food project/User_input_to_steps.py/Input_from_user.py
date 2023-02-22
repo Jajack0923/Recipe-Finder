@@ -10,7 +10,7 @@ def Api():
 	url = "https://api.spoonacular.com/recipes/complexSearch"
 	querystring = {"query":user_input} #parameters
 	headers = { #contains api-key and host to acccess the API
-		"x-api-key": "e518ff541c914d118d2cb375c4d484d3",
+		"x-api-key": "Your API key from Spoonacular",
 		"X-RapidAPI-Host": "https://api.spoonacular.com/recipes/complexSearch"
 		} 
 Api()
